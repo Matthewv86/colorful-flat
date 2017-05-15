@@ -1,0 +1,223 @@
+.navbar {
+  margin: 0;
+  border-bottom: none;
+  background-color: rgb(204, 243, 255);
+  padding-left: 200px;
+  font-weight: bold;
+}
+
+/*** SECTION 2 ***/
+/* jumbotron */
+.container .jumbotron, .container-fluid
+.jumbotron {
+  border-radius: 0;
+}
+/* c-fluid takes up entire width of page */
+.container-fluid{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.jumbotron {
+  background-color: rgb(204, 243, 255);
+  text-align: center;
+}
+h1.template {
+  font-size: 27px;
+  color: #FFF;
+}
+
+.main-image {
+  height: 200px;
+}
+
+
+/*** SECTION 3 ***/
+.sec3{
+  text-align: center;
+  padding: 15px 0 35px 0;
+}
+.ideas {
+  height: 150px;
+}
+
+
+/*** SECTION 4 ***/
+.disney {
+  text-align: center;
+  background-color: #9CCFA2;
+}
+h1.header {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 75px;
+  color: whitesmoke;
+}
+
+.left {
+  color: #e60000;
+}
+.right{
+  color: #ffcc00;
+}
+
+h4.subheader {
+  color: whitesmoke;
+  padding-top: 10px;
+}
+
+img.disneyland {
+  height: 150px;
+}
+/* styling buttons */
+.bworld {
+  padding-top: 30px;
+}
+/* styling buttons */
+.world{
+  border: 0;
+  border-radius: 8px;
+  height: 32px;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: whitesmoke;
+  color: lightslategrey;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.world1 {
+  border: 2px solid whitesmoke;
+  border-radius: 8px;
+  height: 34px;
+  width: 4%;
+  padding-top: 5px;
+  font-size: 10px;
+  font-weight: bold;
+  background: transparent;
+  color: whitesmoke;
+  margin-top: 20px;
+  margin-right: -13px;
+  margin-bottom: 40px;
+  margin-left: 24px;
+}
+.world2 {
+  color: whitesmoke;
+  padding-left: 40px;
+  height: 32px;
+  font-size: 11px;
+  font-weight: bold;
+}
+/* styling buttons */
+.showmore {
+  border: 0;
+  border-radius: 8px;
+  height: 32px;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: whitesmoke;
+  color: lightslategrey;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.thumbnail {
+  background-color: transparent;
+  border: none;
+}
+
+
+/*** SECTION 5 ***/
+.sleepingbeauty {
+  background-color: #e6e6e6;
+  text-align: center;
+}
+.entrance {
+  height: 350px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+.horizontal {
+  width: 85%;
+  height: 20px;
+  border-color: grey;
+}
+.sbc {
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+
+/*** SECTION 6 ***/
+.animator {
+  background-color: #DDB4C4;
+  text-align: center;
+}
+img.creator {
+  height: 280px;
+  padding: 15px 0 10px 0;
+}
+h1, .h1 {
+  padding-top: 25px;
+  margin: 0;
+}
+.social-media {
+  padding-bottom: 25px;
+}
+
+
+/*** SECTION 7 ***/
+.sec7 {
+  background-color: rgb(204, 243, 255);
+  text-align: center;
+}
+img.evolution {
+  height: 400px;
+  width: 50%;
+  padding: 15px 0 10px 0;
+}
+h1, .h1 {
+  padding-top: 25px;
+  margin: 0;
+}
+.showmore2 {
+  border: 0;
+  border-radius: 8px;
+  height: 32px;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: whitesmoke;
+  color: lightslategrey;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+
+/*** FOOTER ***/
+footer {
+  text-align: center;
+  background-color: rgb(77, 77, 77);
+}
+h1.sense8 {
+  font-size: 36px;
+  color: #bfbfbf;
+  padding-top: 40px;
+  padding-bottom: 67px;
+}
+
+.form-group {
+
+}
+.princess {
+  border: 0;
+  border-radius: 8px;
+  height: 32px;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: whitesmoke;
+  color: #4d4d4d;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
